@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://saber-qianqian.github.com/sitemap.xml 
